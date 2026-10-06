@@ -1,0 +1,1201 @@
+queue_length,active_counters,service_type,average_service_time,hour,day_of_week,peak_hour,waiting_time_minutes
+18,2,General Consultation,4.1,12,1,1,45.9
+3,1,General Consultation,5.5,10,1,0,14.3
+2,5,Account Services,7.3,12,5,1,2.5
+18,1,Account Services,7.1,11,5,1,158.2
+10,2,Billing & Payments,3.9,14,0,1,27.4
+3,4,Technical Support,10.5,17,0,1,11.2
+19,5,Billing & Payments,3.2,14,4,1,16.9
+6,2,Account Services,7.9,10,3,0,24.2
+24,2,Technical Support,10.1,14,2,1,151.8
+11,5,General Consultation,5.5,12,1,1,16.3
+15,3,Billing & Payments,3.9,9,1,0,20.7
+14,5,Billing & Payments,3.7,14,1,1,10.5
+30,2,Billing & Payments,4.0,13,1,1,75.0
+28,5,Technical Support,10.9,15,2,0,63.0
+9,5,Account Services,8.5,16,0,0,16.9
+28,5,Account Services,7.6,10,3,0,39.6
+30,5,Billing & Payments,4.5,13,4,1,37.3
+35,3,General Consultation,5.7,14,0,1,91.3
+30,1,Technical Support,10.1,13,4,1,416.8
+20,5,General Consultation,6.2,18,1,1,29.2
+11,5,Account Services,6.9,17,0,1,19.5
+20,2,General Consultation,6.3,9,1,0,62.0
+32,1,General Consultation,4.2,17,6,1,169.5
+28,2,Account Services,6.7,17,6,1,118.8
+26,3,Account Services,7.8,16,4,0,73.3
+15,5,General Consultation,4.8,12,0,1,20.1
+4,2,General Consultation,5.8,10,0,0,13.1
+32,2,Account Services,6.7,17,1,1,133.6
+31,4,Billing & Payments,3.6,12,0,1,39.7
+4,1,Billing & Payments,4.0,9,3,0,16.9
+7,2,Technical Support,11.0,12,1,1,47.3
+16,1,Account Services,6.7,16,6,0,107.0
+35,1,General Consultation,4.1,10,6,0,144.0
+26,1,Billing & Payments,4.2,11,3,1,135.8
+17,4,General Consultation,6.5,13,3,1,33.7
+19,2,Billing & Payments,3.4,9,4,0,33.2
+4,1,General Consultation,5.9,18,3,1,26.6
+33,1,Account Services,6.1,11,0,1,276.7
+16,4,General Consultation,5.7,10,4,0,25.1
+34,3,General Consultation,5.0,13,1,1,72.8
+26,2,Technical Support,9.6,13,3,1,155.0
+7,1,General Consultation,4.0,17,1,1,37.3
+23,1,Technical Support,9.3,12,2,1,267.0
+34,1,Technical Support,10.5,17,2,1,447.8
+9,3,General Consultation,6.3,10,0,0,20.7
+22,2,Technical Support,10.5,13,4,1,157.9
+4,1,Billing & Payments,3.6,15,6,0,14.4
+17,2,Account Services,7.6,16,4,0,71.2
+8,1,Billing & Payments,4.4,11,4,1,49.8
+3,3,Account Services,7.1,14,6,1,9.2
+14,2,General Consultation,6.2,10,2,0,44.0
+10,2,Billing & Payments,5.4,11,6,1,30.7
+2,2,Account Services,8.2,14,6,1,12.7
+7,4,Account Services,6.7,9,6,0,10.6
+30,3,Billing & Payments,3.6,13,6,1,45.3
+26,3,General Consultation,5.7,13,6,1,60.7
+18,3,General Consultation,6.4,17,3,1,46.8
+8,3,Technical Support,11.3,11,4,1,38.8
+28,3,Technical Support,9.1,14,3,1,104.8
+13,3,Billing & Payments,5.2,9,5,0,21.4
+35,2,Billing & Payments,3.0,14,3,1,67.6
+8,3,Technical Support,10.6,17,2,1,36.3
+19,5,Billing & Payments,3.8,11,1,1,14.9
+20,4,Account Services,7.5,17,6,1,48.6
+14,4,General Consultation,4.8,18,4,1,22.2
+33,4,Billing & Payments,4.7,11,5,1,47.1
+22,1,General Consultation,4.7,12,5,1,128.2
+16,4,Account Services,6.1,18,6,1,33.0
+13,4,General Consultation,5.1,16,3,0,16.7
+7,4,General Consultation,6.2,12,1,1,15.8
+16,1,Billing & Payments,3.1,16,1,0,50.3
+29,5,Technical Support,11.4,17,3,1,80.5
+31,4,Billing & Payments,5.2,13,6,1,50.4
+18,4,Billing & Payments,4.6,10,5,0,22.8
+22,3,Technical Support,9.6,17,0,1,97.5
+5,4,Account Services,7.8,15,2,0,10.6
+14,4,Billing & Payments,4.0,15,6,0,12.0
+23,3,Billing & Payments,4.2,15,6,0,31.0
+35,5,Billing & Payments,4.3,12,3,1,37.9
+26,2,General Consultation,5.0,16,1,0,66.6
+2,1,General Consultation,6.3,15,1,0,13.2
+14,4,Technical Support,9.9,14,2,1,42.6
+27,3,Billing & Payments,3.7,10,3,0,35.2
+5,1,Technical Support,9.6,9,1,0,48.2
+10,2,Account Services,8.1,11,3,1,49.7
+17,3,Account Services,7.2,11,4,1,54.4
+11,3,General Consultation,5.9,10,4,0,25.1
+13,1,Billing & Payments,4.0,18,5,1,65.2
+20,5,Account Services,6.3,10,6,0,27.8
+24,1,Technical Support,10.3,17,5,1,308.7
+27,4,Technical Support,9.0,10,3,0,62.8
+28,2,Billing & Payments,4.8,17,5,1,83.5
+35,4,Technical Support,10.5,16,3,0,92.8
+6,3,Technical Support,11.1,16,1,0,20.4
+25,3,Billing & Payments,4.4,9,3,0,37.2
+17,3,Account Services,6.9,13,4,1,53.0
+34,2,Technical Support,10.4,10,1,0,176.5
+32,4,Account Services,7.7,9,0,0,66.1
+16,3,Technical Support,9.6,18,2,1,62.2
+22,3,Billing & Payments,5.5,16,2,0,40.6
+8,2,Technical Support,9.6,14,0,1,52.6
+31,3,Account Services,6.5,18,6,1,80.3
+13,3,Technical Support,11.5,12,2,1,62.4
+4,5,Account Services,6.7,13,5,1,6.9
+32,1,Account Services,7.6,9,4,0,267.2
+4,3,Technical Support,9.5,16,0,0,15.6
+5,5,General Consultation,5.0,9,1,0,6.1
+16,1,Technical Support,9.2,17,6,1,185.6
+15,5,Billing & Payments,4.5,15,3,0,14.6
+4,5,Billing & Payments,3.8,10,6,0,2.4
+17,1,Account Services,7.6,11,1,1,161.8
+31,3,General Consultation,5.0,9,1,0,52.2
+30,1,Technical Support,10.8,12,2,1,405.5
+35,2,Account Services,7.1,11,2,1,153.3
+11,3,Account Services,6.2,18,5,1,29.9
+20,4,Billing & Payments,3.3,13,4,1,19.7
+3,4,Billing & Payments,4.1,14,4,1,4.2
+18,5,General Consultation,6.5,9,6,0,24.1
+29,3,Account Services,7.2,11,4,1,93.2
+27,3,General Consultation,5.2,14,5,1,59.6
+22,4,General Consultation,6.1,16,2,0,32.8
+21,3,General Consultation,5.1,14,0,1,47.8
+1,5,Billing & Payments,5.2,16,3,0,2.7
+4,2,Billing & Payments,4.6,13,4,1,13.3
+29,4,Account Services,8.3,10,0,0,68.2
+20,5,Account Services,7.8,9,4,0,34.0
+8,4,Billing & Payments,3.2,10,5,0,7.3
+18,4,Technical Support,10.3,16,3,0,44.8
+10,4,Account Services,7.1,12,4,1,21.3
+27,3,General Consultation,4.7,17,2,1,52.7
+20,5,General Consultation,4.7,18,5,1,22.7
+35,4,Billing & Payments,3.9,16,2,0,34.2
+16,5,Account Services,8.5,15,1,0,28.2
+25,4,Technical Support,10.9,11,3,1,83.9
+22,1,General Consultation,4.3,16,0,0,102.4
+10,1,Account Services,7.0,16,6,0,69.7
+26,1,Technical Support,9.8,14,6,1,317.7
+32,5,Technical Support,10.6,9,4,0,73.0
+19,2,General Consultation,4.6,10,3,0,46.2
+20,1,General Consultation,5.1,9,2,0,101.7
+24,4,General Consultation,4.7,11,1,1,33.3
+6,5,Account Services,6.4,15,4,0,8.1
+10,2,Account Services,7.2,16,5,0,36.0
+30,3,General Consultation,6.2,17,1,1,78.7
+23,5,General Consultation,5.1,13,5,1,31.6
+13,4,Billing & Payments,5.1,16,0,0,17.7
+23,5,Account Services,7.0,13,5,1,39.1
+4,5,Billing & Payments,3.7,16,6,0,6.9
+15,5,Technical Support,10.9,14,1,1,39.5
+3,3,Account Services,7.6,16,0,0,6.8
+6,3,Technical Support,10.8,14,5,1,26.1
+18,2,Technical Support,10.3,13,6,1,116.4
+19,3,Billing & Payments,5.4,10,3,0,35.0
+26,5,Account Services,8.2,14,0,1,58.4
+35,1,Billing & Payments,3.0,16,2,0,104.0
+24,1,Billing & Payments,5.1,12,3,1,151.0
+21,5,General Consultation,5.5,12,5,1,31.5
+8,2,Technical Support,10.6,9,0,0,47.7
+8,1,Technical Support,11.5,12,4,1,127.6
+10,4,Billing & Payments,4.5,10,6,0,12.5
+18,1,Billing & Payments,4.5,14,1,1,97.8
+24,5,Technical Support,9.2,14,0,1,62.0
+8,4,Billing & Payments,3.7,10,5,0,7.9
+22,2,General Consultation,4.1,11,6,1,58.5
+14,5,Account Services,6.2,12,6,1,22.6
+1,3,Account Services,8.0,11,1,1,2.4
+8,1,Technical Support,11.0,11,0,1,119.3
+17,1,Technical Support,9.0,11,5,1,193.3
+5,4,Billing & Payments,4.3,16,6,0,4.1
+3,5,Billing & Payments,4.3,13,3,1,4.8
+31,4,General Consultation,4.2,15,5,0,34.4
+6,3,Billing & Payments,3.2,18,1,1,9.5
+21,4,General Consultation,4.3,18,4,1,30.5
+8,5,Billing & Payments,3.2,12,3,1,8.1
+27,3,Billing & Payments,5.2,16,3,0,46.2
+17,3,Billing & Payments,3.8,11,5,1,27.3
+6,1,Billing & Payments,3.2,15,0,0,21.1
+22,1,Account Services,7.4,15,2,0,161.4
+4,3,Billing & Payments,5.2,18,2,1,7.5
+31,2,Account Services,6.4,10,2,0,100.8
+18,5,Technical Support,9.3,12,6,1,40.1
+18,1,General Consultation,5.5,11,2,1,124.6
+23,1,Technical Support,11.3,11,6,1,326.2
+2,1,General Consultation,4.4,17,1,1,12.7
+22,2,Billing & Payments,4.0,14,2,1,54.5
+10,2,General Consultation,6.2,18,0,1,40.1
+28,4,General Consultation,4.7,18,3,1,40.2
+8,3,General Consultation,4.9,18,3,1,16.9
+26,5,Technical Support,9.1,9,0,0,53.1
+19,3,Account Services,7.9,10,0,0,58.5
+12,2,Billing & Payments,4.9,15,4,0,31.8
+3,4,Technical Support,9.2,9,3,0,5.2
+28,5,General Consultation,6.2,15,5,0,33.9
+21,2,Billing & Payments,3.1,18,3,1,39.7
+7,2,Technical Support,9.2,15,4,0,34.9
+15,3,Technical Support,10.9,11,0,1,75.3
+13,3,General Consultation,5.3,14,5,1,30.8
+10,3,Account Services,6.6,12,1,1,26.9
+5,2,Account Services,7.9,16,3,0,19.8
+21,3,Billing & Payments,4.7,11,3,1,38.6
+20,3,General Consultation,5.2,18,0,1,47.3
+4,3,Billing & Payments,4.1,13,0,1,8.0
+33,4,General Consultation,5.5,16,4,0,47.4
+13,3,General Consultation,5.1,18,3,1,26.7
+29,1,Account Services,8.4,14,5,1,306.4
+29,4,General Consultation,4.6,17,4,1,46.9
+19,4,Account Services,6.9,15,6,0,31.7
+7,5,Technical Support,9.2,15,2,0,14.6
+10,3,Technical Support,10.8,10,4,0,37.9
+26,2,Technical Support,11.4,18,5,1,182.4
+25,3,General Consultation,4.8,11,5,1,48.9
+28,5,General Consultation,5.6,14,0,1,39.6
+14,3,Technical Support,9.8,16,1,0,45.9
+7,5,General Consultation,4.7,17,6,1,9.0
+9,5,General Consultation,5.7,15,1,0,11.7
+3,4,Account Services,7.8,14,5,1,9.7
+19,4,Account Services,8.4,12,4,1,55.1
+13,3,Billing & Payments,5.3,18,3,1,32.6
+25,5,Billing & Payments,4.9,17,3,1,33.3
+4,4,Account Services,8.2,14,4,1,10.7
+34,1,General Consultation,5.8,13,0,1,271.2
+6,2,Account Services,8.1,16,2,0,23.1
+26,5,General Consultation,5.0,14,1,1,32.0
+7,3,Account Services,6.1,11,1,1,18.2
+31,2,General Consultation,4.7,16,3,0,70.4
+10,5,General Consultation,4.6,18,4,1,10.5
+19,2,Billing & Payments,3.3,13,0,1,44.6
+32,5,Billing & Payments,3.2,17,0,1,28.6
+19,4,Account Services,7.8,9,4,0,39.6
+6,5,Account Services,7.7,14,0,1,14.3
+31,1,General Consultation,5.0,15,2,0,155.0
+7,5,General Consultation,4.9,14,1,1,8.8
+22,2,General Consultation,4.9,16,5,0,53.0
+30,1,Account Services,6.2,13,1,1,232.6
+3,3,General Consultation,6.0,13,4,1,6.0
+13,3,Billing & Payments,3.6,14,6,1,21.1
+22,3,General Consultation,6.2,10,6,0,43.3
+25,3,Billing & Payments,5.2,11,3,1,56.5
+34,3,Billing & Payments,3.9,10,5,0,42.8
+21,1,Account Services,7.4,10,2,0,156.1
+28,2,Technical Support,9.8,16,2,0,134.9
+28,3,Technical Support,10.5,9,0,0,108.6
+11,1,Billing & Payments,3.9,11,6,1,51.6
+16,3,General Consultation,4.3,14,3,1,27.0
+29,3,General Consultation,5.5,14,3,1,66.6
+18,2,Technical Support,10.0,10,0,0,97.0
+25,5,Account Services,7.2,10,2,0,36.4
+19,4,Account Services,8.5,12,0,1,53.2
+29,2,Account Services,8.1,16,0,0,130.7
+5,5,Technical Support,10.7,17,2,1,9.7
+12,3,Technical Support,11.1,17,1,1,56.2
+32,1,Account Services,6.6,14,4,1,291.1
+9,5,Technical Support,10.2,10,0,0,18.0
+27,5,Billing & Payments,4.3,10,1,0,28.7
+29,4,Technical Support,10.6,17,2,1,98.0
+9,4,Account Services,7.9,17,6,1,24.3
+34,2,General Consultation,6.1,13,1,1,131.5
+34,3,Account Services,6.9,10,2,0,81.2
+18,2,Account Services,7.6,13,4,1,92.3
+10,2,Account Services,7.5,18,5,1,46.5
+3,1,Technical Support,11.1,10,0,0,39.1
+27,5,Technical Support,10.6,9,3,0,56.4
+20,4,Technical Support,10.6,12,6,1,66.8
+4,2,Billing & Payments,3.2,16,3,0,5.0
+22,5,Billing & Payments,4.2,11,2,1,23.9
+9,3,Technical Support,11.4,17,4,1,46.0
+30,1,General Consultation,4.8,13,3,1,180.0
+27,2,Technical Support,11.4,11,6,1,193.1
+21,2,Technical Support,11.3,11,3,1,150.0
+6,4,Technical Support,10.2,17,3,1,19.1
+23,1,Account Services,6.5,9,2,0,146.4
+1,1,Billing & Payments,3.7,15,1,0,3.8
+26,3,Technical Support,10.8,9,3,0,95.4
+5,4,Technical Support,10.4,17,3,1,16.9
+8,2,Technical Support,11.1,10,3,0,41.3
+13,5,Technical Support,10.9,17,3,1,38.6
+9,3,General Consultation,4.1,16,4,0,11.6
+21,2,Account Services,6.8,15,4,0,79.1
+33,5,Technical Support,10.5,17,3,1,86.3
+8,4,General Consultation,4.9,18,2,1,11.0
+17,5,General Consultation,5.5,18,1,1,23.0
+25,2,Account Services,7.3,12,0,1,123.5
+29,3,General Consultation,4.5,15,1,0,42.6
+4,2,Billing & Payments,5.2,17,1,1,13.5
+31,5,Technical Support,11.5,15,2,0,72.9
+17,5,Technical Support,10.4,16,1,0,34.9
+20,2,Account Services,6.7,13,6,1,83.5
+23,5,Billing & Payments,3.8,13,2,1,22.8
+35,4,General Consultation,5.4,15,6,0,45.8
+19,1,Account Services,6.7,14,3,1,161.3
+14,2,Technical Support,10.9,17,2,1,97.5
+16,2,Account Services,6.3,9,5,0,49.5
+4,1,Account Services,7.6,15,2,0,30.3
+11,4,Account Services,6.0,16,3,0,15.8
+19,3,Account Services,7.9,13,5,1,64.9
+3,2,Account Services,7.3,15,6,0,11.9
+3,4,Account Services,8.3,16,1,0,9.8
+1,3,Technical Support,11.2,18,4,1,3.6
+22,3,General Consultation,6.3,16,5,0,44.5
+30,3,Account Services,8.1,12,6,1,100.8
+30,3,General Consultation,4.8,11,0,1,65.8
+26,4,Account Services,6.4,17,2,1,49.4
+7,2,General Consultation,5.0,11,3,1,21.4
+29,3,Technical Support,10.0,14,2,1,121.8
+24,2,General Consultation,4.7,9,5,0,57.3
+20,1,Billing & Payments,4.7,13,2,1,118.4
+9,4,Account Services,6.5,11,3,1,18.3
+31,5,Billing & Payments,4.8,12,6,1,35.2
+6,5,Account Services,7.7,16,4,0,10.0
+33,2,General Consultation,4.2,18,4,1,94.7
+34,4,Account Services,6.4,10,5,0,54.9
+29,1,General Consultation,6.2,16,1,0,181.7
+4,5,Billing & Payments,4.1,16,5,0,4.1
+1,2,Billing & Payments,3.6,18,0,1,1.0
+5,5,General Consultation,5.1,9,0,0,7.3
+9,4,Technical Support,10.0,14,3,1,28.0
+25,4,Billing & Payments,5.2,10,5,0,35.5
+23,1,Account Services,7.6,11,4,1,239.7
+15,1,Billing & Payments,4.3,9,2,0,62.2
+15,2,Billing & Payments,4.3,16,2,0,32.8
+8,1,Account Services,6.7,15,4,0,59.3
+5,1,General Consultation,4.6,18,0,1,28.5
+4,2,Billing & Payments,4.5,9,3,0,7.3
+19,2,General Consultation,4.4,18,2,1,52.9
+10,5,Technical Support,9.6,12,3,1,23.8
+28,5,Account Services,7.6,16,0,0,47.3
+25,5,Technical Support,11.4,14,5,1,70.5
+35,4,Billing & Payments,3.5,12,6,1,38.7
+10,4,Account Services,6.8,9,4,0,17.4
+17,2,Account Services,7.0,14,5,1,75.2
+24,1,General Consultation,6.3,17,5,1,189.2
+3,1,Billing & Payments,4.7,12,6,1,17.2
+22,3,Account Services,7.2,9,1,0,56.3
+31,2,General Consultation,5.9,18,5,1,112.8
+16,5,Account Services,7.0,14,6,1,27.7
+24,5,Technical Support,9.8,16,3,0,48.7
+31,3,General Consultation,6.0,12,2,1,77.3
+2,3,Account Services,7.9,17,4,1,7.7
+13,3,Billing & Payments,3.7,12,3,1,19.0
+32,4,Technical Support,9.6,16,1,0,76.3
+35,4,Technical Support,9.4,11,4,1,116.9
+5,1,General Consultation,6.1,9,3,0,30.3
+15,1,Account Services,8.1,11,0,1,167.4
+31,4,General Consultation,5.5,9,0,0,48.5
+34,3,Billing & Payments,3.0,17,2,1,45.2
+12,1,Billing & Payments,5.0,10,4,0,66.3
+34,3,Account Services,6.6,14,2,1,93.7
+16,2,Billing & Payments,4.1,13,5,1,40.4
+3,1,General Consultation,5.6,15,3,0,15.6
+6,4,General Consultation,5.8,15,5,0,9.9
+7,5,Technical Support,10.4,9,1,0,15.3
+5,3,Billing & Payments,3.7,17,4,1,11.4
+21,1,General Consultation,4.4,12,4,1,128.8
+20,2,Billing & Payments,5.3,18,1,1,68.4
+35,3,Billing & Payments,4.7,15,6,0,54.7
+23,1,General Consultation,5.3,10,3,0,119.3
+22,5,Account Services,8.1,18,4,1,46.9
+29,4,General Consultation,5.6,12,2,1,52.3
+25,1,Billing & Payments,4.1,18,2,1,128.8
+25,2,General Consultation,4.7,15,2,0,56.5
+1,3,Technical Support,9.3,16,2,0,3.1
+29,5,General Consultation,4.5,17,4,1,35.2
+6,3,Billing & Payments,3.3,17,0,1,6.9
+27,4,Billing & Payments,3.0,10,5,0,18.7
+11,4,Account Services,7.4,11,1,1,25.3
+28,3,Account Services,6.2,15,2,0,59.0
+24,3,Billing & Payments,5.0,12,5,1,48.6
+9,3,Account Services,7.1,9,3,0,19.9
+25,3,Technical Support,11.1,16,2,0,90.0
+13,4,Account Services,6.8,14,1,1,28.8
+19,4,Billing & Payments,5.4,18,6,1,32.1
+13,5,Billing & Payments,3.9,17,1,1,14.1
+30,2,General Consultation,6.4,16,6,0,95.4
+9,3,Billing & Payments,4.7,12,2,1,19.9
+25,1,Account Services,7.8,16,4,0,213.0
+24,5,Billing & Payments,4.4,18,5,1,26.6
+16,3,General Consultation,4.3,11,5,1,27.2
+22,4,Billing & Payments,5.4,10,0,0,31.4
+33,5,General Consultation,4.6,17,4,1,41.3
+33,2,Technical Support,10.0,14,0,1,225.9
+27,1,Billing & Payments,3.3,10,6,0,89.9
+14,5,Technical Support,9.9,16,2,0,27.4
+29,3,Billing & Payments,3.2,10,2,0,33.2
+7,2,General Consultation,6.1,12,4,1,30.0
+22,5,Account Services,7.4,15,3,0,32.7
+28,4,Account Services,6.5,9,5,0,47.0
+28,4,Account Services,7.1,9,5,0,50.0
+35,2,General Consultation,5.4,14,2,1,119.3
+17,4,Account Services,7.1,17,5,1,37.1
+23,3,Billing & Payments,4.5,16,4,0,39.3
+20,5,Account Services,8.0,18,0,1,43.4
+12,3,Account Services,6.8,11,4,1,36.3
+9,5,Billing & Payments,4.0,15,3,0,8.0
+32,3,Account Services,7.4,11,1,1,100.6
+4,3,Technical Support,11.1,9,3,0,16.6
+32,4,Billing & Payments,4.0,16,3,0,34.1
+2,2,Account Services,6.2,13,0,1,8.2
+32,5,Account Services,8.0,17,0,1,72.2
+35,3,General Consultation,4.7,17,6,1,68.6
+28,1,Billing & Payments,4.4,12,2,1,151.5
+23,1,General Consultation,5.1,16,6,0,119.9
+23,5,Account Services,6.5,15,1,0,29.8
+14,1,Account Services,8.0,18,2,1,138.0
+19,3,Account Services,6.8,18,2,1,53.4
+27,1,General Consultation,4.3,13,6,1,143.8
+21,2,Account Services,6.6,15,3,0,67.4
+18,4,Account Services,7.4,15,3,0,35.7
+18,3,General Consultation,5.0,16,3,0,31.2
+6,4,Technical Support,10.5,14,6,1,21.4
+14,4,Account Services,8.4,13,2,1,37.5
+9,5,Technical Support,9.8,16,6,0,16.4
+30,1,General Consultation,4.1,10,6,0,124.9
+1,4,Account Services,7.1,12,5,1,4.8
+18,1,Technical Support,9.4,14,2,1,209.8
+11,1,General Consultation,4.9,15,5,0,53.1
+6,1,Account Services,7.1,9,1,0,44.8
+15,5,Billing & Payments,3.2,16,0,0,11.9
+28,2,General Consultation,6.5,16,0,0,100.2
+7,1,Account Services,7.0,14,2,1,61.8
+10,1,Account Services,7.6,17,4,1,103.9
+11,4,General Consultation,5.5,14,5,1,19.5
+29,2,Billing & Payments,4.5,10,0,0,74.2
+25,3,Account Services,7.9,15,2,0,66.1
+19,1,General Consultation,4.6,13,1,1,108.2
+19,1,Account Services,7.9,12,3,1,186.8
+1,3,General Consultation,5.3,14,1,1,2.9
+27,3,Billing & Payments,5.2,17,5,1,59.3
+5,1,General Consultation,4.0,13,1,1,26.5
+26,5,General Consultation,6.3,13,5,1,40.4
+6,5,Billing & Payments,4.8,17,4,1,5.4
+20,1,Account Services,6.7,17,1,1,168.4
+5,3,Technical Support,10.0,15,5,0,16.5
+6,4,Account Services,6.1,10,3,0,8.8
+9,1,Account Services,6.3,11,3,1,70.5
+17,2,Technical Support,10.3,14,1,1,109.4
+2,3,General Consultation,5.9,15,2,0,1.0
+5,4,General Consultation,4.7,16,4,0,5.3
+17,1,Account Services,6.9,18,5,1,148.0
+33,1,General Consultation,4.6,9,6,0,152.5
+10,2,Billing & Payments,3.9,9,4,0,20.6
+16,4,Billing & Payments,3.6,14,2,1,18.9
+4,2,General Consultation,5.3,12,6,1,11.5
+5,4,General Consultation,6.4,13,6,1,10.7
+13,3,Billing & Payments,3.0,18,6,1,15.1
+16,4,Technical Support,10.8,14,4,1,64.6
+35,2,Account Services,7.8,11,0,1,186.8
+35,3,Billing & Payments,3.1,9,2,0,38.4
+34,2,Technical Support,9.3,15,3,0,158.1
+10,3,General Consultation,6.4,10,0,0,26.3
+24,4,Billing & Payments,4.8,10,4,0,30.2
+26,1,General Consultation,5.3,18,4,1,191.5
+17,3,Account Services,6.6,15,5,0,38.2
+18,2,Technical Support,9.8,10,1,0,89.9
+11,4,General Consultation,4.4,16,2,0,14.0
+23,2,Billing & Payments,3.3,16,2,0,35.1
+20,5,General Consultation,4.4,9,1,0,18.3
+16,3,Technical Support,9.4,15,4,0,56.4
+26,4,Account Services,6.1,17,5,1,49.9
+7,2,Account Services,6.2,10,0,0,26.3
+26,3,Account Services,6.3,10,4,0,61.0
+5,1,Technical Support,11.3,10,1,0,57.8
+22,1,Account Services,6.2,9,3,0,135.5
+28,4,General Consultation,4.4,16,0,0,32.7
+12,3,Technical Support,9.5,13,3,1,48.6
+16,3,Account Services,6.1,16,3,0,33.8
+9,4,General Consultation,4.7,12,5,1,12.1
+35,1,Account Services,7.6,15,6,0,265.6
+33,3,Billing & Payments,3.9,15,2,0,41.2
+15,1,Account Services,6.1,13,0,1,126.4
+15,2,Technical Support,10.9,10,1,0,80.2
+4,2,Account Services,6.7,18,6,1,18.2
+21,3,Account Services,6.4,18,0,1,61.4
+10,5,Technical Support,11.4,12,6,1,31.6
+12,4,Billing & Payments,4.4,9,0,0,14.3
+15,1,General Consultation,4.6,17,3,1,89.6
+22,2,Account Services,8.0,14,0,1,121.0
+10,1,General Consultation,4.4,17,6,1,54.6
+22,3,Billing & Payments,4.5,14,1,1,41.7
+28,4,Account Services,7.8,14,1,1,67.7
+12,4,Technical Support,9.6,13,5,1,34.1
+1,5,Technical Support,9.3,15,6,0,5.7
+21,5,General Consultation,4.5,12,5,1,23.5
+10,3,General Consultation,6.3,10,1,0,20.2
+22,4,General Consultation,6.1,9,2,0,34.6
+5,3,Account Services,6.6,13,6,1,13.8
+27,2,Billing & Payments,4.1,15,3,0,55.4
+25,1,Billing & Payments,3.9,16,6,0,98.9
+5,1,Account Services,6.4,13,0,1,42.4
+7,1,Technical Support,9.7,14,1,1,85.6
+6,3,General Consultation,5.4,18,4,1,14.3
+28,2,Billing & Payments,4.8,18,3,1,84.4
+27,5,Account Services,8.4,17,2,1,57.3
+7,1,Technical Support,9.7,15,4,0,73.0
+28,1,General Consultation,4.9,13,6,1,171.0
+2,2,Billing & Payments,3.5,11,5,1,4.2
+26,4,General Consultation,4.8,16,5,0,31.8
+35,4,Technical Support,9.2,11,2,1,101.7
+29,4,Billing & Payments,3.1,13,1,1,27.1
+10,1,Technical Support,10.4,10,5,0,103.0
+25,5,Account Services,7.4,15,4,0,42.3
+16,4,Billing & Payments,4.4,13,0,1,21.9
+34,5,General Consultation,5.3,18,1,1,46.9
+29,2,General Consultation,6.4,11,1,1,116.3
+28,2,Billing & Payments,3.2,11,6,1,55.3
+5,1,Technical Support,9.8,15,4,0,52.8
+1,5,Technical Support,10.3,18,4,1,3.6
+10,2,Billing & Payments,3.3,18,4,1,19.3
+7,3,General Consultation,6.3,17,2,1,16.4
+32,5,Billing & Payments,3.7,18,3,1,30.8
+26,1,Account Services,7.5,15,2,0,195.3
+31,3,Account Services,6.1,14,0,1,85.3
+32,1,Technical Support,9.7,12,1,1,390.3
+29,3,Technical Support,11.4,13,5,1,135.9
+27,4,Account Services,7.1,17,6,1,61.0
+33,2,Technical Support,11.1,10,2,0,182.8
+13,1,General Consultation,4.4,12,0,1,77.2
+24,2,Billing & Payments,3.1,13,2,1,47.3
+16,3,General Consultation,5.7,16,4,0,31.8
+31,5,Billing & Payments,3.4,17,2,1,24.8
+6,3,Technical Support,10.9,9,3,0,24.2
+14,2,General Consultation,4.4,12,5,1,39.1
+1,4,General Consultation,6.2,11,5,1,4.0
+1,2,Account Services,7.5,13,4,1,5.6
+25,3,Technical Support,10.1,16,2,0,83.0
+34,5,Account Services,7.2,15,4,0,55.3
+19,3,Technical Support,10.4,10,3,0,66.9
+18,3,General Consultation,4.8,13,2,1,33.9
+34,2,Technical Support,9.5,9,6,0,158.4
+9,1,Billing & Payments,4.7,16,2,0,42.2
+13,3,Billing & Payments,4.8,12,5,1,27.6
+23,5,Billing & Payments,5.3,13,6,1,31.5
+31,2,Account Services,6.7,13,5,1,131.7
+22,1,Account Services,8.4,12,2,1,231.5
+22,3,Billing & Payments,5.0,13,4,1,53.4
+8,4,Technical Support,10.2,9,6,0,19.1
+13,5,General Consultation,5.2,10,6,0,12.0
+27,1,Billing & Payments,4.3,11,1,1,146.5
+12,1,Billing & Payments,3.4,16,2,0,40.7
+4,1,Account Services,6.8,16,2,0,27.9
+6,2,Account Services,7.2,18,3,1,29.5
+31,4,Billing & Payments,4.0,9,0,0,31.7
+34,2,General Consultation,6.2,9,5,0,104.9
+16,2,General Consultation,5.6,14,2,1,57.0
+3,3,Technical Support,9.4,13,3,1,12.8
+9,3,Technical Support,10.1,16,2,0,30.3
+15,2,Billing & Payments,3.0,12,5,1,27.2
+11,1,General Consultation,5.5,14,5,1,75.4
+4,5,Technical Support,10.9,9,5,0,8.4
+2,1,General Consultation,5.6,10,3,0,10.5
+10,2,Technical Support,10.2,9,2,0,51.3
+34,3,Billing & Payments,4.7,18,4,1,72.8
+8,3,General Consultation,5.3,10,6,0,12.6
+13,3,General Consultation,5.2,17,1,1,27.2
+32,2,Account Services,6.1,16,2,0,98.8
+6,1,Account Services,6.0,18,5,1,41.3
+7,3,General Consultation,5.8,12,3,1,17.1
+4,1,Technical Support,9.7,11,6,1,49.7
+8,1,Technical Support,10.1,9,0,0,89.2
+11,3,Account Services,7.7,14,3,1,36.4
+22,2,General Consultation,4.9,10,3,0,53.6
+18,4,Billing & Payments,5.4,16,6,0,21.5
+4,2,Account Services,6.3,10,3,0,14.1
+29,2,Billing & Payments,5.0,18,3,1,91.0
+32,1,Account Services,7.2,15,3,0,228.4
+21,1,General Consultation,4.2,17,6,1,110.2
+22,5,Account Services,8.4,17,5,1,43.8
+16,4,General Consultation,5.1,14,5,1,24.8
+11,5,General Consultation,4.0,16,6,0,7.5
+5,4,Billing & Payments,5.2,14,1,1,7.5
+25,4,Account Services,7.4,12,0,1,64.7
+29,1,Billing & Payments,4.1,16,3,0,117.2
+27,1,General Consultation,4.3,17,4,1,163.5
+20,5,General Consultation,6.1,17,1,1,29.6
+4,2,Technical Support,9.9,16,2,0,18.4
+24,4,Billing & Payments,4.8,10,0,0,31.7
+19,5,Technical Support,9.9,17,2,1,46.0
+11,4,General Consultation,4.1,11,6,1,13.6
+13,2,General Consultation,4.6,10,6,0,27.6
+13,3,Billing & Payments,3.5,10,6,0,12.2
+29,4,General Consultation,5.9,18,4,1,60.6
+1,5,Account Services,8.4,9,4,0,4.5
+12,5,Billing & Payments,5.3,11,5,1,14.8
+21,5,Account Services,6.3,15,3,0,29.8
+22,3,Account Services,6.7,16,6,0,48.7
+33,3,Account Services,6.3,17,6,1,85.7
+19,3,Account Services,6.5,11,5,1,53.7
+21,1,Account Services,7.3,14,4,1,208.9
+35,3,Billing & Payments,4.7,15,6,0,55.1
+2,4,General Consultation,5.3,11,0,1,3.2
+17,2,Account Services,8.5,9,5,0,71.4
+35,1,Technical Support,9.5,14,6,1,413.6
+25,2,Account Services,7.9,17,6,1,124.0
+4,4,Technical Support,10.7,15,3,0,14.6
+4,1,Technical Support,11.4,13,1,1,55.9
+24,5,Billing & Payments,5.1,17,5,1,28.5
+12,1,Account Services,6.7,11,1,1,98.9
+28,3,General Consultation,4.9,17,2,1,58.5
+30,2,Technical Support,9.0,9,1,0,136.4
+20,4,Technical Support,10.5,18,4,1,70.5
+12,5,Technical Support,10.3,10,6,0,26.8
+35,4,Account Services,7.0,10,2,0,61.4
+19,2,Technical Support,9.8,18,4,1,129.0
+1,1,Billing & Payments,5.5,14,3,1,7.0
+21,4,Account Services,8.4,10,3,0,46.2
+19,1,Technical Support,10.4,17,6,1,247.2
+19,2,Billing & Payments,4.2,14,4,1,53.1
+11,5,General Consultation,6.4,17,0,1,18.6
+28,1,Account Services,8.2,12,4,1,315.0
+5,2,Billing & Payments,4.6,9,3,0,11.4
+17,5,General Consultation,4.1,10,4,0,14.9
+27,4,Account Services,8.3,16,5,0,54.9
+35,1,Billing & Payments,4.7,18,0,1,226.9
+5,3,General Consultation,5.8,17,0,1,12.7
+29,4,General Consultation,4.7,15,6,0,36.3
+35,2,General Consultation,5.2,11,5,1,111.7
+10,3,Technical Support,11.4,14,0,1,53.9
+1,5,Account Services,6.3,18,3,1,1.0
+23,2,Technical Support,9.5,15,5,0,108.4
+15,5,Account Services,6.4,13,1,1,25.7
+30,5,General Consultation,6.1,10,2,0,38.1
+13,5,General Consultation,4.6,16,2,0,10.6
+5,2,Account Services,6.3,14,3,1,21.4
+20,5,Billing & Payments,3.8,11,4,1,18.4
+21,2,Billing & Payments,3.4,12,5,1,43.5
+24,2,Billing & Payments,3.7,14,3,1,54.1
+7,2,Technical Support,10.2,18,0,1,49.4
+9,5,Technical Support,11.1,12,2,1,24.8
+33,1,General Consultation,6.2,18,4,1,279.2
+14,1,Billing & Payments,4.9,17,2,1,80.5
+10,3,Billing & Payments,4.6,15,1,0,13.9
+33,5,Technical Support,9.3,10,3,0,61.2
+11,5,Account Services,8.1,11,3,1,22.4
+10,4,Account Services,6.4,14,0,1,22.3
+15,1,General Consultation,4.7,12,4,1,98.6
+30,1,Technical Support,10.0,9,5,0,298.9
+17,5,Technical Support,11.1,17,4,1,54.0
+25,3,Account Services,6.9,18,5,1,72.4
+15,5,Technical Support,9.9,15,2,0,29.3
+31,5,Technical Support,10.2,9,4,0,70.8
+18,2,Account Services,6.2,11,1,1,68.7
+8,2,Account Services,6.9,15,6,0,27.2
+11,4,Billing & Payments,4.2,9,1,0,12.2
+11,2,General Consultation,4.3,17,0,1,33.2
+12,5,Account Services,6.6,15,4,0,16.9
+19,1,General Consultation,6.2,12,3,1,145.9
+27,5,Billing & Payments,3.4,11,6,1,21.9
+33,3,Account Services,7.6,11,5,1,103.2
+25,2,General Consultation,4.6,10,0,0,60.1
+33,4,Account Services,7.3,11,4,1,84.2
+35,5,General Consultation,6.2,10,0,0,48.7
+35,1,Billing & Payments,4.6,15,4,0,174.4
+31,4,Billing & Payments,3.6,14,4,1,39.8
+17,4,General Consultation,5.1,12,6,1,28.8
+1,1,Billing & Payments,3.6,18,4,1,6.0
+25,2,General Consultation,5.3,14,3,1,82.2
+35,4,Technical Support,9.7,18,2,1,106.8
+26,2,Technical Support,11.5,15,4,0,164.8
+31,3,Technical Support,10.4,13,4,1,146.1
+26,2,Technical Support,10.9,10,5,0,142.0
+33,4,Account Services,6.3,14,6,1,67.6
+1,1,General Consultation,4.4,11,3,1,6.9
+24,1,General Consultation,4.7,18,0,1,154.4
+26,5,Billing & Payments,5.3,17,2,1,34.0
+29,1,Account Services,7.6,12,6,1,273.5
+33,5,Technical Support,9.5,12,4,1,86.4
+11,1,Account Services,7.6,13,6,1,104.9
+26,4,Billing & Payments,3.9,18,1,1,29.3
+19,5,General Consultation,6.3,18,2,1,29.7
+18,2,Technical Support,11.4,18,1,1,126.8
+27,5,General Consultation,4.7,10,4,0,28.3
+22,1,General Consultation,5.3,17,2,1,147.7
+25,5,Technical Support,10.7,16,6,0,51.6
+30,4,Account Services,7.9,18,6,1,74.8
+15,2,General Consultation,5.0,14,3,1,47.0
+1,3,Technical Support,10.3,12,2,1,6.2
+12,4,Technical Support,9.2,14,2,1,35.7
+18,2,Account Services,8.2,12,3,1,92.2
+14,2,Account Services,8.2,12,6,1,70.7
+23,2,Account Services,8.1,10,0,0,104.4
+35,1,Billing & Payments,4.5,16,2,0,156.4
+18,4,Technical Support,10.2,11,6,1,58.4
+9,1,Account Services,7.9,17,6,1,88.3
+35,1,Billing & Payments,4.2,17,2,1,182.0
+8,5,Account Services,7.1,16,2,0,12.8
+14,4,General Consultation,4.0,18,0,1,18.3
+17,2,Technical Support,9.5,13,3,1,102.8
+32,4,Technical Support,9.9,12,3,1,98.6
+12,5,Billing & Payments,3.7,11,4,1,10.8
+18,2,Account Services,8.0,17,3,1,90.6
+1,2,Account Services,7.2,15,3,0,2.8
+34,5,Account Services,8.5,14,6,1,71.1
+11,1,General Consultation,5.0,12,6,1,68.8
+7,4,Technical Support,10.2,14,2,1,21.1
+27,1,Technical Support,9.9,14,6,1,335.6
+35,2,Account Services,7.4,13,2,1,161.1
+25,5,Billing & Payments,5.2,13,3,1,34.1
+22,4,Account Services,8.2,18,4,1,59.3
+15,3,General Consultation,4.4,14,5,1,29.3
+26,3,Technical Support,10.8,16,6,0,94.5
+12,1,Billing & Payments,4.0,11,5,1,58.9
+6,2,Account Services,7.7,11,3,1,29.3
+2,4,Billing & Payments,4.4,17,6,1,3.1
+10,1,General Consultation,4.3,15,2,0,43.3
+9,5,Billing & Payments,4.6,11,0,1,13.8
+21,4,General Consultation,5.7,16,6,0,28.8
+35,2,Billing & Payments,3.3,18,4,1,79.1
+28,5,Billing & Payments,4.6,17,2,1,33.6
+29,3,Account Services,8.0,14,3,1,95.7
+1,1,Technical Support,9.4,17,6,1,11.8
+1,4,Technical Support,10.2,16,2,0,1.7
+19,5,General Consultation,5.9,12,6,1,29.5
+28,4,Billing & Payments,5.2,12,1,1,45.6
+15,3,Billing & Payments,5.1,10,3,0,24.2
+35,3,Technical Support,9.7,15,1,0,111.9
+19,1,General Consultation,4.5,16,4,0,91.8
+2,2,Billing & Payments,3.5,9,4,0,4.5
+7,3,General Consultation,4.5,13,1,1,12.6
+1,4,Account Services,6.2,12,2,1,1.0
+32,3,Billing & Payments,3.8,16,5,0,40.9
+26,1,Account Services,6.1,17,3,1,197.0
+17,4,Account Services,6.5,9,0,0,32.7
+29,2,Billing & Payments,4.9,9,1,0,70.7
+7,5,Billing & Payments,4.8,12,3,1,5.5
+3,5,Technical Support,9.4,17,0,1,10.2
+20,2,Technical Support,10.2,14,0,1,140.9
+28,3,General Consultation,4.6,9,1,0,42.1
+26,2,Technical Support,10.5,9,0,0,148.1
+6,2,Account Services,6.9,11,3,1,24.8
+22,1,General Consultation,5.7,9,2,0,124.0
+15,3,General Consultation,4.3,17,6,1,25.0
+29,2,Technical Support,11.0,9,5,0,157.8
+32,4,Technical Support,11.2,17,2,1,113.7
+12,5,Billing & Payments,3.5,14,2,1,10.4
+10,4,Account Services,6.2,13,6,1,18.2
+30,1,Technical Support,10.4,17,3,1,389.7
+16,3,Technical Support,10.9,10,5,0,55.0
+32,5,Billing & Payments,3.5,11,4,1,30.5
+34,1,Technical Support,9.3,9,6,0,317.7
+3,2,Account Services,6.4,10,3,0,9.7
+34,5,Billing & Payments,4.6,18,2,1,39.5
+5,1,General Consultation,4.9,12,5,1,27.5
+4,3,General Consultation,5.2,17,5,1,8.8
+4,5,Billing & Payments,5.1,13,4,1,6.2
+14,5,Technical Support,9.2,10,0,0,28.5
+13,2,Account Services,7.3,17,5,1,59.3
+27,1,Account Services,7.4,18,2,1,251.9
+28,1,Billing & Payments,4.8,11,6,1,168.6
+35,5,Technical Support,10.6,16,2,0,75.6
+21,3,Technical Support,10.4,15,6,0,70.9
+35,2,Technical Support,10.5,15,6,0,181.7
+29,4,Technical Support,9.9,15,0,0,78.3
+20,1,General Consultation,5.3,13,1,1,128.3
+2,3,Account Services,8.1,17,4,1,4.2
+30,3,Account Services,6.2,11,1,1,76.3
+16,2,Technical Support,9.9,13,6,1,98.4
+21,4,Account Services,7.8,11,3,1,53.0
+20,1,General Consultation,5.5,18,3,1,137.9
+28,4,Technical Support,9.9,10,6,0,69.5
+1,4,Account Services,7.9,9,2,0,1.0
+15,2,Account Services,6.8,9,5,0,50.8
+33,1,Billing & Payments,5.4,12,3,1,222.4
+31,5,Account Services,6.8,9,4,0,47.8
+26,5,Billing & Payments,3.7,15,6,0,18.4
+32,4,Billing & Payments,4.4,18,1,1,41.6
+18,4,Account Services,6.6,14,5,1,37.7
+23,2,Billing & Payments,4.1,14,2,1,58.6
+11,3,General Consultation,5.9,18,6,1,28.7
+15,2,Account Services,7.1,14,1,1,66.5
+4,2,General Consultation,4.3,18,1,1,12.6
+8,3,General Consultation,4.9,16,3,0,11.0
+35,2,General Consultation,4.8,12,4,1,114.4
+10,1,Billing & Payments,4.6,15,4,0,50.4
+4,3,General Consultation,4.6,12,6,1,7.3
+1,1,Billing & Payments,4.6,15,5,0,3.5
+24,1,Technical Support,10.7,9,2,0,258.3
+33,1,Account Services,8.4,14,3,1,344.9
+33,4,General Consultation,4.5,17,5,1,47.5
+26,2,Technical Support,9.8,9,2,0,127.6
+20,2,Technical Support,9.9,17,2,1,124.5
+2,5,Billing & Payments,5.2,13,1,1,1.0
+26,2,Account Services,6.9,10,5,0,86.9
+10,4,Account Services,7.0,13,4,1,26.6
+9,2,Technical Support,10.1,11,4,1,59.9
+34,2,Account Services,6.8,15,6,0,114.9
+11,3,Account Services,7.6,10,4,0,28.3
+10,1,Account Services,6.8,14,3,1,84.5
+18,2,Billing & Payments,3.8,12,0,1,47.3
+15,5,Technical Support,10.5,12,1,1,39.6
+31,2,General Consultation,4.9,17,6,1,93.1
+25,4,Technical Support,9.5,16,1,0,57.9
+3,4,Account Services,6.5,9,2,0,5.9
+5,2,Account Services,7.9,16,6,0,19.4
+30,2,Billing & Payments,4.7,15,3,0,70.8
+26,5,Billing & Payments,4.8,18,4,1,32.3
+29,4,General Consultation,5.3,9,1,0,36.9
+34,1,General Consultation,5.4,12,2,1,229.3
+20,3,Billing & Payments,4.0,16,1,0,24.8
+10,4,General Consultation,5.7,16,0,0,16.6
+35,2,General Consultation,4.4,15,3,0,76.8
+13,4,Billing & Payments,4.5,10,2,0,14.9
+11,1,Technical Support,10.7,10,0,0,128.9
+25,5,General Consultation,5.3,18,1,1,31.1
+3,2,Billing & Payments,4.4,14,4,1,11.1
+12,1,Account Services,8.2,15,2,0,96.2
+29,3,Technical Support,10.8,11,0,1,146.6
+17,1,General Consultation,5.6,16,3,0,92.9
+1,5,Billing & Payments,4.4,16,1,0,1.3
+6,5,Billing & Payments,4.0,18,0,1,8.8
+18,5,Account Services,8.2,17,6,1,37.1
+23,1,Account Services,6.1,11,6,1,175.0
+20,3,General Consultation,5.7,10,0,0,45.5
+12,4,Account Services,7.7,18,2,1,31.9
+20,3,General Consultation,4.2,14,3,1,36.1
+9,1,General Consultation,4.7,13,2,1,50.6
+14,5,Billing & Payments,4.3,9,0,0,9.5
+19,4,General Consultation,5.2,18,6,1,29.1
+23,2,Technical Support,9.6,18,4,1,149.4
+12,5,Billing & Payments,4.2,12,5,1,12.7
+1,1,Technical Support,11.4,9,3,0,10.9
+27,4,Account Services,8.0,9,2,0,53.5
+14,1,Technical Support,10.4,12,5,1,181.5
+21,1,Technical Support,9.8,10,5,0,208.4
+2,2,Technical Support,9.9,12,2,1,14.1
+3,2,Billing & Payments,5.3,16,1,0,5.0
+35,3,Billing & Payments,5.2,16,6,0,62.0
+20,5,General Consultation,6.1,14,4,1,30.4
+22,3,General Consultation,4.5,10,1,0,32.9
+11,5,Billing & Payments,4.6,18,3,1,13.0
+20,3,Account Services,7.5,9,2,0,48.5
+20,2,Account Services,6.9,17,2,1,87.2
+3,2,Account Services,6.3,10,3,0,6.8
+31,5,Account Services,6.5,13,6,1,50.3
+7,5,Technical Support,9.4,11,1,1,16.2
+3,5,General Consultation,4.0,10,2,0,1.0
+7,5,Billing & Payments,5.2,13,0,1,8.9
+13,3,Account Services,6.8,13,4,1,39.9
+8,3,Technical Support,10.9,11,1,1,36.3
+23,5,General Consultation,4.5,14,2,1,26.1
+19,5,Account Services,8.4,12,1,1,41.8
+4,2,Technical Support,10.4,9,3,0,21.7
+4,1,General Consultation,4.3,15,3,0,18.1
+20,3,Billing & Payments,4.5,12,5,1,39.3
+30,5,General Consultation,6.4,11,0,1,54.1
+20,4,Billing & Payments,3.2,16,1,0,12.9
+17,3,Account Services,6.4,15,1,0,35.6
+2,1,Technical Support,10.1,16,0,0,20.1
+11,3,Technical Support,10.2,14,4,1,49.8
+7,3,Billing & Payments,5.0,17,5,1,13.8
+35,4,General Consultation,6.0,15,4,0,56.0
+25,1,Account Services,8.4,14,1,1,263.6
+28,5,Billing & Payments,5.0,14,4,1,38.2
+32,1,General Consultation,5.8,18,4,1,254.3
+7,4,Billing & Payments,3.8,11,2,1,8.9
+25,3,General Consultation,5.7,16,5,0,47.3
+9,5,General Consultation,4.2,9,6,0,8.1
+29,2,Technical Support,10.0,12,5,1,181.9
+20,4,Technical Support,9.7,14,0,1,64.9
+19,1,Billing & Payments,5.1,14,4,1,132.2
+23,1,General Consultation,4.0,13,6,1,116.6
+25,4,Billing & Payments,4.6,15,3,0,29.1
+31,2,Account Services,7.7,12,4,1,161.6
+9,2,Billing & Payments,3.4,9,0,0,19.1
+32,4,General Consultation,4.4,11,0,1,50.2
+28,5,Billing & Payments,5.2,11,3,1,38.5
+29,4,Billing & Payments,4.4,14,1,1,40.7
+16,5,Billing & Payments,5.1,13,3,1,22.3
+3,5,Technical Support,9.1,16,5,0,4.1
+34,3,General Consultation,4.4,16,4,0,56.3
+6,2,General Consultation,5.3,16,5,0,15.7
+35,5,General Consultation,5.7,13,4,1,51.1
+35,1,General Consultation,6.3,16,3,0,218.8
+19,3,Technical Support,10.1,11,0,1,87.8
+17,1,Technical Support,10.8,16,4,0,202.2
+2,3,Technical Support,11.0,16,0,0,8.5
+18,3,Account Services,7.3,11,4,1,59.7
+12,5,General Consultation,5.9,11,5,1,20.6
+12,3,Billing & Payments,3.9,12,3,1,20.3
+6,2,General Consultation,4.9,18,6,1,20.0
+27,4,Account Services,8.1,12,5,1,66.4
+23,1,Account Services,7.4,13,6,1,213.5
+30,4,General Consultation,4.1,16,2,0,27.1
+25,4,Account Services,6.9,13,1,1,54.4
+29,4,Billing & Payments,3.0,14,4,1,29.7
+28,5,Technical Support,11.4,13,2,1,79.4
+7,3,Technical Support,9.7,18,3,1,26.1
+13,5,Account Services,7.8,14,5,1,25.9
+1,1,Account Services,6.8,10,0,0,5.9
+19,3,Billing & Payments,3.9,12,0,1,34.9
+4,5,General Consultation,5.5,12,4,1,4.5
+9,4,General Consultation,4.2,18,6,1,10.0
+12,3,Account Services,8.2,13,3,1,40.7
+18,4,Billing & Payments,5.3,14,2,1,29.3
+18,1,Account Services,8.0,15,3,0,143.7
+5,4,Technical Support,9.4,12,4,1,16.6
+32,1,Billing & Payments,3.4,11,4,1,149.7
+17,1,General Consultation,6.3,9,0,0,116.8
+17,4,General Consultation,5.4,9,3,0,24.2
+18,2,General Consultation,5.7,14,3,1,65.9
+32,4,General Consultation,5.3,15,3,0,43.9
+1,4,General Consultation,5.4,16,0,0,1.0
+20,4,Technical Support,9.8,9,5,0,51.2
+22,1,Technical Support,10.3,16,6,0,226.6
+12,5,Technical Support,10.6,9,3,0,24.8
+23,4,Billing & Payments,5.2,10,5,0,28.8
+9,1,Billing & Payments,4.8,12,0,1,59.0
+35,3,Billing & Payments,4.0,16,4,0,49.4
+2,1,Billing & Payments,5.4,14,0,1,13.6
+34,4,Billing & Payments,3.3,17,1,1,37.1
+3,2,Account Services,8.3,16,5,0,15.7
+9,1,General Consultation,4.6,11,5,1,52.1
+7,4,General Consultation,6.3,18,1,1,14.1
+15,1,General Consultation,4.3,12,3,1,80.2
+26,3,Technical Support,11.0,10,5,0,94.6
+12,3,Account Services,7.9,10,0,0,34.4
+27,2,Technical Support,9.4,14,4,1,175.1
+25,2,General Consultation,4.3,9,3,0,54.7
+12,1,General Consultation,4.0,18,2,1,57.6
+14,2,Billing & Payments,4.7,13,4,1,46.6
+12,5,Billing & Payments,4.0,9,4,0,11.3
+20,3,General Consultation,5.6,15,0,0,42.7
+34,1,Account Services,6.5,18,2,1,279.1
+14,3,Account Services,7.2,9,1,0,30.2
+31,4,General Consultation,6.0,11,1,1,57.9
+28,3,Technical Support,9.7,14,4,1,124.1
+4,5,Billing & Payments,3.1,11,1,1,3.5
+16,4,General Consultation,4.2,18,4,1,21.4
+21,2,Technical Support,10.0,10,2,0,105.2
+25,2,Billing & Payments,5.2,10,3,0,66.1
+28,2,Billing & Payments,3.1,12,4,1,58.2
+13,3,Account Services,7.1,13,1,1,38.9
+4,3,Technical Support,9.3,11,0,1,18.0
+15,3,Account Services,7.9,18,1,1,48.0
+15,1,Account Services,7.4,15,6,0,108.0
+30,3,Account Services,7.5,9,5,0,74.6
+16,2,Billing & Payments,4.8,14,3,1,45.2
+1,4,Account Services,8.3,9,0,0,1.0
+33,1,Billing & Payments,4.8,15,4,0,172.1
+16,1,General Consultation,5.1,17,6,1,103.7
+27,2,General Consultation,5.7,11,2,1,95.6
+20,2,General Consultation,4.0,16,6,0,42.1
+30,2,General Consultation,6.4,15,1,0,96.4
+1,1,Billing & Payments,4.8,15,5,0,3.4
+19,4,Technical Support,10.3,13,5,1,62.9
+6,5,Account Services,8.0,14,5,1,11.4
+24,1,General Consultation,5.3,10,3,0,125.8
+5,5,Technical Support,9.9,12,1,1,13.9
+8,4,Technical Support,9.6,18,6,1,25.0
+18,5,Account Services,6.8,15,2,0,24.2
+23,4,General Consultation,4.2,16,4,0,25.8
+24,1,Technical Support,10.1,12,3,1,302.9
+12,3,General Consultation,4.2,10,0,0,18.9
+14,5,Account Services,7.2,9,2,0,20.8
+35,2,Billing & Payments,5.4,16,2,0,92.3
+5,1,General Consultation,4.7,12,6,1,30.6
+22,3,Technical Support,10.0,16,4,0,79.7
+9,3,Billing & Payments,4.1,11,6,1,13.8
+24,3,Technical Support,9.6,9,1,0,75.8
+11,5,Account Services,7.5,13,1,1,21.9
+10,2,Account Services,8.1,12,0,1,57.0
+24,2,Account Services,7.1,12,4,1,117.5
+23,2,General Consultation,5.7,14,3,1,81.1
+2,4,Technical Support,9.3,16,6,0,4.4
+21,2,Account Services,8.4,9,5,0,86.5
+19,5,Technical Support,10.2,11,6,1,47.9
+8,4,Billing & Payments,3.8,9,1,0,7.3
+15,4,General Consultation,5.0,14,0,1,25.1
+13,5,Technical Support,9.1,17,1,1,30.1
+35,4,Account Services,6.1,10,4,0,56.2
+21,5,Billing & Payments,3.5,18,4,1,23.3
+28,3,Technical Support,10.0,15,2,0,92.2
+23,3,General Consultation,4.7,16,6,0,35.1
+27,4,Billing & Payments,4.9,13,1,1,41.0
+27,2,Billing & Payments,4.8,18,4,1,90.0
+34,3,Billing & Payments,5.5,10,4,0,69.1
+27,3,Billing & Payments,3.2,15,1,0,26.6
+25,3,Account Services,6.5,17,3,1,66.9
+20,5,General Consultation,6.1,13,3,1,28.9
+10,3,General Consultation,6.0,13,5,1,24.4
+19,4,Billing & Payments,3.3,11,3,1,21.4
+18,4,General Consultation,4.3,10,4,0,20.1
+28,3,Technical Support,10.5,16,5,0,98.6
+11,5,General Consultation,6.1,9,1,0,12.1
+9,3,Technical Support,10.2,11,0,1,41.9
+19,5,Technical Support,9.1,10,4,0,39.6
+12,1,Account Services,7.9,18,6,1,119.2
+20,3,Technical Support,11.1,14,0,1,102.9
+1,2,Technical Support,11.1,17,2,1,5.7
+11,1,Technical Support,11.3,12,1,1,156.6
+34,5,Account Services,8.1,17,5,1,68.9
+8,2,Billing & Payments,5.3,9,3,0,20.5
+24,2,Technical Support,9.8,16,4,0,125.4
+2,1,Account Services,7.8,12,1,1,18.9
+20,2,Account Services,7.7,12,1,1,97.8
+31,4,General Consultation,4.2,9,1,0,32.4
+33,5,General Consultation,4.1,9,3,0,27.9
+1,1,General Consultation,4.8,10,4,0,6.1
+13,2,Account Services,7.5,14,0,1,69.5
+23,3,Technical Support,11.4,11,6,1,110.8
+5,1,Account Services,7.3,18,6,1,46.7
+11,5,Account Services,8.4,9,5,0,18.6
+33,4,General Consultation,6.3,14,5,1,63.6
+23,4,General Consultation,4.5,15,1,0,25.0
+21,1,Account Services,7.0,16,0,0,160.0
+3,1,Technical Support,10.8,14,3,1,40.3
+30,5,General Consultation,5.0,13,5,1,39.1
+28,2,Billing & Payments,3.7,10,6,0,51.6
+24,2,Billing & Payments,5.3,9,5,0,62.9
+6,1,Billing & Payments,4.3,11,3,1,32.3
+7,2,Billing & Payments,4.7,10,2,0,17.8
+28,4,Billing & Payments,3.3,13,6,1,28.7
+26,3,Technical Support,10.9,16,5,0,93.2
+10,4,Billing & Payments,4.3,10,0,0,10.9
+15,2,Technical Support,10.2,9,0,0,83.9
+12,4,Billing & Payments,4.7,18,5,1,14.8
+7,1,Technical Support,9.4,17,6,1,80.6
+32,5,Technical Support,10.7,13,4,1,94.2
+35,5,Technical Support,11.0,9,6,0,78.6
+21,4,General Consultation,5.0,16,3,0,26.6
+20,2,General Consultation,4.1,16,3,0,42.6
+32,5,Billing & Payments,4.9,17,4,1,44.9
+11,5,Billing & Payments,4.2,9,3,0,9.1
+23,3,Billing & Payments,4.5,14,0,1,49.4
+9,3,General Consultation,5.5,14,6,1,20.6
+28,3,Technical Support,10.0,14,3,1,116.3
+16,2,Technical Support,9.1,12,5,1,90.8
+8,3,General Consultation,6.2,11,0,1,23.3
+28,5,Technical Support,9.1,17,3,1,63.5
+25,5,General Consultation,6.5,15,2,0,34.8
+7,2,General Consultation,6.0,14,3,1,23.7
+20,3,Technical Support,9.4,15,1,0,62.6
+5,5,Billing & Payments,4.6,12,2,1,5.6
+6,5,Billing & Payments,5.0,10,4,0,7.9
+34,4,Technical Support,9.7,15,1,0,82.1
+20,4,Technical Support,10.3,17,2,1,64.9
+17,5,Account Services,7.0,17,3,1,28.9
+34,2,General Consultation,5.6,18,3,1,117.3
+30,3,Account Services,7.7,17,6,1,94.3
+4,5,Billing & Payments,5.3,12,2,1,3.6
+10,3,Billing & Payments,3.4,15,3,0,10.2
+27,3,General Consultation,5.6,13,5,1,65.6
+16,4,Account Services,6.6,12,0,1,36.5
+28,4,Technical Support,10.2,9,1,0,71.7
+2,3,Account Services,6.7,13,5,1,3.5
+32,1,General Consultation,6.4,9,6,0,204.1
+20,1,General Consultation,4.8,15,2,0,94.5
+9,2,Billing & Payments,5.4,10,4,0,24.0
+34,3,General Consultation,5.3,16,0,0,66.1
+25,2,Technical Support,9.8,15,1,0,123.3
+14,3,Account Services,6.3,16,3,0,29.3
+8,3,Billing & Payments,4.3,17,3,1,16.3
+18,2,Billing & Payments,4.7,14,3,1,52.3
+3,1,General Consultation,5.6,12,2,1,18.3
+24,1,Billing & Payments,3.8,17,6,1,114.1
+26,3,General Consultation,6.3,13,0,1,76.7
+11,4,Account Services,6.7,14,6,1,23.2
+6,4,General Consultation,4.7,16,5,0,5.5
+22,4,Billing & Payments,5.3,10,6,0,29.8
+21,4,General Consultation,4.9,9,6,0,26.7
+12,4,General Consultation,5.6,11,0,1,21.4
+8,2,Technical Support,10.4,12,4,1,58.4
+27,3,Account Services,8.1,16,3,0,73.5
+21,3,Account Services,7.7,12,0,1,73.5
+26,4,Billing & Payments,3.9,18,1,1,32.0
+30,2,Account Services,8.3,13,5,1,155.7
+28,5,Account Services,6.1,13,1,1,43.9
+34,4,General Consultation,4.0,16,6,0,34.8
+14,2,Billing & Payments,3.3,13,2,1,28.8
+14,3,Billing & Payments,5.1,12,3,1,28.3
+10,1,Account Services,7.0,13,2,1,87.6
+30,1,Account Services,6.9,9,3,0,208.6
+26,2,Account Services,8.2,15,5,0,104.8
+4,1,General Consultation,4.2,14,1,1,21.9
+3,1,Billing & Payments,5.3,13,4,1,20.9
+9,5,Billing & Payments,4.7,9,4,0,8.4
+33,4,Account Services,6.7,14,3,1,70.0
+8,3,Billing & Payments,3.4,9,1,0,10.0
+18,3,Billing & Payments,5.2,15,2,0,32.2
+28,2,Technical Support,10.3,14,5,1,179.6
+10,5,Billing & Payments,4.9,16,0,0,11.0
+17,2,Account Services,6.1,16,3,0,52.3
+32,1,General Consultation,6.5,16,2,0,209.9
+10,1,Billing & Payments,4.2,14,0,1,57.6
+12,2,Account Services,8.2,17,6,1,61.0
+1,5,Account Services,7.5,18,1,1,5.0
+16,4,Billing & Payments,5.3,10,2,0,23.4
+7,3,General Consultation,5.0,11,0,1,16.4
+31,4,General Consultation,5.2,13,4,1,54.7
+29,3,General Consultation,5.6,18,1,1,66.5
+19,3,Account Services,8.2,9,5,0,55.3
+17,2,Billing & Payments,3.2,12,6,1,35.6
+14,2,Billing & Payments,3.2,15,6,0,20.6
+32,4,Account Services,6.3,13,5,1,64.2
+7,3,Account Services,6.9,17,1,1,17.0
+28,1,Billing & Payments,3.7,15,6,0,103.8
+28,4,Technical Support,10.5,10,0,0,76.8
+10,4,Account Services,7.6,17,5,1,23.4
+28,1,General Consultation,4.7,16,2,0,132.1
+34,4,Technical Support,11.1,13,4,1,130.4
+3,5,General Consultation,5.4,10,4,0,3.0
+6,5,Technical Support,9.9,9,0,0,13.4
+12,4,Billing & Payments,3.4,9,0,0,9.2
+30,4,Technical Support,10.5,18,6,1,99.6
+12,2,Technical Support,9.9,11,0,1,81.6
+2,1,General Consultation,5.1,15,0,0,9.2
+31,4,General Consultation,4.4,15,6,0,32.7
+24,4,Billing & Payments,3.8,13,0,1,29.3
+13,1,Account Services,6.3,9,5,0,84.8
+10,2,Account Services,7.2,15,6,0,35.5
+30,2,Account Services,6.2,16,3,0,93.9
+29,4,Account Services,7.8,16,0,0,62.3
+13,3,Billing & Payments,4.5,18,6,1,24.6
+28,4,General Consultation,4.3,16,5,0,29.7
+26,4,Technical Support,9.1,17,4,1,80.8
+4,5,Billing & Payments,3.6,9,3,0,1.0
+18,4,Technical Support,10.4,16,0,0,47.9
+28,1,Technical Support,10.1,11,2,1,353.6
+29,2,Account Services,7.2,17,1,1,128.6
+19,4,Billing & Payments,3.3,15,6,0,14.5
+11,5,Technical Support,11.0,12,2,1,30.0
+13,2,Billing & Payments,3.3,18,3,1,26.2
+32,3,General Consultation,6.0,12,1,1,74.7
+23,2,Technical Support,11.2,11,6,1,159.0
+22,4,General Consultation,6.0,10,4,0,36.6
+22,3,Billing & Payments,3.6,9,6,0,28.3
+33,5,Technical Support,11.2,10,5,0,77.4
+8,1,Billing & Payments,5.4,18,4,1,60.5
+3,5,General Consultation,6.1,10,1,0,1.6
+19,4,Technical Support,9.4,17,3,1,53.6
+24,3,General Consultation,4.4,11,0,1,49.3
+1,2,Billing & Payments,4.9,16,2,0,1.1
+6,3,Technical Support,10.3,14,5,1,25.8
+34,4,Account Services,6.4,12,1,1,66.6
+27,4,Billing & Payments,4.0,17,6,1,32.3
+1,5,Billing & Payments,3.4,10,0,0,1.0
+11,4,Technical Support,9.8,9,3,0,27.1
+4,5,Account Services,8.3,13,3,1,6.1
+20,3,Billing & Payments,5.2,14,0,1,49.2
+29,2,Account Services,7.8,17,4,1,152.7
+26,2,Billing & Payments,4.7,13,0,1,85.3
+35,3,Account Services,7.3,12,0,1,117.4
+11,1,Technical Support,10.3,9,6,0,112.2
+33,1,Technical Support,10.8,9,6,0,356.1
+33,3,Technical Support,9.6,10,0,0,116.3
+1,4,Billing & Payments,3.7,14,1,1,1.0
+19,5,Account Services,6.9,11,5,1,31.0
+13,3,General Consultation,4.8,16,0,0,24.6
+27,1,Account Services,7.8,10,0,0,231.0
+24,5,Account Services,7.1,15,4,0,37.8
+32,4,Billing & Payments,5.2,16,5,0,43.2
+10,5,Billing & Payments,5.1,11,3,1,12.0
+33,5,Billing & Payments,3.3,10,5,0,22.2
+24,1,Account Services,8.4,18,6,1,253.7
+24,5,Billing & Payments,3.3,13,0,1,21.0
+20,3,Technical Support,11.5,16,0,0,84.2
+27,1,Account Services,6.4,13,2,1,216.6
+23,1,Billing & Payments,3.0,9,3,0,71.7
+29,3,Billing & Payments,4.4,15,3,0,44.0
+33,4,Account Services,7.9,16,5,0,62.7
+21,1,Billing & Payments,3.4,18,5,1,88.2
+3,4,Billing & Payments,3.8,13,5,1,2.5
+2,5,General Consultation,6.2,13,4,1,2.1
+35,5,General Consultation,4.5,9,4,0,32.9
+33,1,Account Services,7.9,10,5,0,261.6
+14,2,General Consultation,4.7,18,3,1,40.8
+21,4,General Consultation,6.0,18,0,1,39.8
+27,1,Technical Support,10.1,17,2,1,341.1
+8,1,Billing & Payments,3.6,17,1,1,35.8
+27,2,General Consultation,4.4,9,4,0,66.3
+4,3,Technical Support,9.5,15,0,0,13.3
+8,1,Technical Support,9.6,12,1,1,97.4
+33,4,Account Services,7.2,10,2,0,61.0
+2,4,Billing & Payments,3.2,12,0,1,2.8
+7,2,Technical Support,10.4,17,5,1,45.8
+33,2,Billing & Payments,4.1,11,2,1,83.3
+35,4,Account Services,8.0,17,3,1,90.2
+11,1,Technical Support,10.6,9,3,0,117.3
+25,3,Technical Support,10.5,12,4,1,121.0
+5,3,Account Services,7.8,10,3,0,12.0
+18,4,General Consultation,6.1,12,4,1,35.0
+29,3,Technical Support,10.6,12,5,1,128.0
+30,5,Technical Support,9.9,14,0,1,82.4
+1,1,General Consultation,5.5,11,3,1,6.5
+35,1,Billing & Payments,4.9,10,4,0,191.4
+23,4,Billing & Payments,4.7,18,2,1,34.3
+1,1,Billing & Payments,3.4,16,2,0,4.9
+18,3,Account Services,7.9,12,0,1,64.5
+15,2,Technical Support,11.0,16,2,0,84.2
+26,1,Account Services,6.0,13,4,1,214.9
+13,5,Billing & Payments,3.4,18,4,1,13.1
+15,5,General Consultation,4.3,13,1,1,17.9
+35,5,General Consultation,6.5,13,5,1,55.3
+4,3,Billing & Payments,4.6,15,6,0,5.5
+34,4,Billing & Payments,3.7,16,2,0,31.0
+27,5,Account Services,6.1,16,2,0,32.9
+22,1,General Consultation,5.0,18,6,1,139.9
+16,2,Billing & Payments,5.4,11,2,1,54.4
+7,1,Technical Support,9.2,16,3,0,65.1
+16,1,Technical Support,11.1,16,1,0,175.7
+22,5,Technical Support,11.1,12,0,1,67.5
+8,1,General Consultation,5.6,9,0,0,47.2
